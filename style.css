@@ -1,0 +1,13 @@
+/* Hoja de estilo personalizada */
+/* CSS: Cascading Style Sheet */
+
+/* Selector de etiqueta */
+body {
+    background-color: #BE2F5A;
+    color: #FEB24C;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+main{
+    text-align: center;
+}
