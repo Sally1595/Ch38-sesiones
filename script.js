@@ -1,7 +1,7 @@
 console.log("Hola Ch38");
 
 // Función que enie un saludo con alert 
-function enviarSaludi(){
+function enviarSaludo(){
     alert('¡Hola Ch38!');
 }
 
@@ -10,6 +10,6 @@ function enviarSaludi(){
  * Mostrar un saludo y nombre de la persona con alert()
  */
 function enviarSaludoAPersona(){
-prompt('Pon tu nombre');
-alert('Hola ')
+    let message = prompt("Pon tu nombre");
+    alert(`Hola ${message}`);
 }
